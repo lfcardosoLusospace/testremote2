@@ -1,5 +1,9 @@
 Do bitbucket para o github
 
+
 Alterado do github para o bitbucket
 
-Alterado simultaneo do github para o bitbucket
+Alterado do github para o bitbucket
+
+Alterado simultaneo do bitbucket para o github
+

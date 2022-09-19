@@ -5,3 +5,9 @@ Alterado do github para o bitbucket
 
 Alterado do github para o bitbucket
 
+<<<<<<< HEAD
+=======
+Alterado simultaneo do bitbucket para o github.
+
+From testremote2
+>>>>>>> 5deb0e6d11274d0af4bbedeeaee3f5a25d102acb

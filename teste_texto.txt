@@ -1,5 +1,13 @@
 Do bitbucket para o github
 
+
 Alterado do github para o bitbucket
 
+Alterado do github para o bitbucket
+
+<<<<<<< HEAD
 Alterado simultaneo do bitbucket para o github.
+=======
+Alterado simultaneo do bitbucket para o github
+
+>>>>>>> 287dd7be551e08fa774cb505f106534ba8d74571
